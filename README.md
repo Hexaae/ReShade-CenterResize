@@ -2,10 +2,10 @@
 Just a quick ReShade shader to resize (rescale) screen image to your needs.
 
 ## Why?
-Because on big modern LCD screens full screen usually extends to the vertical borders filling whole screen.
-This will result in a very blocky and "too zoomed-in" resolution for old low-res games from the 80-90's
-for my taste. This shader solves the issue.
-You can also choose a different (non-black) color for borders.
+On large modern LCD displays, running old low‑res pixel games in full‑screen mode usually stretches the image all the way to the vertical edges. This results in a very zoomed‑in, blocky look with huge pixels that doesn’t match the original aesthetic of 80s–90s titles on home TVs.<br>
+This shader solves the issue by scaling the image down and centering it on the screen.
+
+You can also customize the border color instead of using plain black.
 
 ## Installation
 Copy CenterResize.fx to: &lt;your-game-dir&gt;\reshade-shaders\Shaders\
