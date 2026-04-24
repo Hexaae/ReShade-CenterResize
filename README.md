@@ -7,6 +7,9 @@ This will result in a very blocky and "too zoomed-in" resolution for old low-res
 for my taste. This shader solves the issue.
 You can also choose a different (non-black) color for background.
 
+## Installation
+Copy CenterResize.fx to: &lt;your-game-dir&gt;\reshade-shaders\Shaders\
+
 ## Example
 BEFORE:
 <img width="1280" height="800" alt="big" src="https://github.com/user-attachments/assets/01460aac-f3e4-45fd-a73e-7d01ad07e0ec" />
