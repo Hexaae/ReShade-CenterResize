@@ -6,7 +6,7 @@ On large modern LCD displays, running old low‑res pixel games in full‑screen
 This shader solves the issue by scaling the image down and centering it on the screen.
 
 ## Features
-- Cnahge size from 100% to 50% with a slider<br>
+- Change size from 100% to 50% with a slider<br>
 - Customize the border color
 
 ## Installation
